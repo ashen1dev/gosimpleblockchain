@@ -1,0 +1,10 @@
+hash: a54ba485f79257693d4b48c4a32e751eee5e93439f8f3cf27c941b3d8f161e2f
+updated: 2018-02-21T16:37:01.225277421+09:00
+imports:
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: c0091a029979286890368b4c7b301261e448e242
+- name: github.com/gorilla/websocket
+  version: a69d25be2fe2923a97c2af6849b2f52426f68fc0
+testImports: []
